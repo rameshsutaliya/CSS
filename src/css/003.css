@@ -1,0 +1,22 @@
+.site-heading{
+    color: blue
+}
+.topnav-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    display:flex;
+}
+.topnav-list a:active{
+    color: chartreuse;
+    background-color: aquamarine;
+}
+.topnav-list a:hover{
+    color: red;
+    background-color: cadetblue;
+}
+.topnav-list li{
+    margin: auto;
+    display: inline-block;
+}

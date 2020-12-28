@@ -1,0 +1,25 @@
+body {
+    background-color: darkviolet
+}
+
+h1 {
+    font-family: monospace
+}
+
+p {
+    background-color: azure
+}
+
+h2 {
+    color: chartreuse
+}
+
+.heading2 {
+    color: azure;
+    background-color: black;
+}
+
+#test01 {
+    color: cornflowerblue;
+    background-color: chartreuse;
+}
