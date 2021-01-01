@@ -20,3 +20,19 @@
     margin: auto;
     display: inline-block;
 }
+.sub-heading{
+    color: cadetblue
+}
+#contact-us{
+    color: green
+}
+.Simple-list{
+    background-color: bisque;
+    backface-visibility: visible;
+    text-decoration-skip: objects;
+}
+.simple-list-item{
+    animation-delay: 1000;
+    animation-duration: 2000;
+    color: darkblue;
+}
